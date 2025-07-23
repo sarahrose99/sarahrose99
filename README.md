@@ -1,16 +1,21 @@
-## Hi ![there](https://camo.githubusercontent.com/b98bc40342eddd722eb2917d3e4c5bcb9f01a939f49dcbcaeda0f184aa1a008e/68747470733a2f2f632e74656e6f722e636f6d2f34426b5965654f7745556741414141432f776176696e672d776176652e676966)
+### Hi ![there](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sarah
 
-<!--
-**sarahrose99/sarahrose99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | Data Analyst
 
-Here are some ideas to get you started:
+--- 
+#### 💻 Skills 
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,mysql,python,laravel,flask,php,figma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📫 Get in Touch
+📧 Email: naibahosarah9@gmail.com
+💼 Linkedin: https://www.linkedin.com/in/sarah-rosiana
+
+---
+
+### 📊GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarahrose99&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahrose99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sarahrose99&icon=0&color=0)](https://visitcount.itsvg.in)
