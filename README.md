@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi ![there](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhritikd3%2FLanding-page-using-GSAP&psig=AOvVaw0octM2krSWtRYX_AnkjKl6&ust=1753343540697000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCUy_K_0o4DFQAAAAAdAAAAABBD)
 
 <!--
 **sarahrose99/sarahrose99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
