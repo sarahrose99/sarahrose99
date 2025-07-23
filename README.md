@@ -1,4 +1,4 @@
-## Hi ![there](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhritikd3%2FLanding-page-using-GSAP&psig=AOvVaw0octM2krSWtRYX_AnkjKl6&ust=1753343540697000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCUy_K_0o4DFQAAAAAdAAAAABBD)
+## Hi ![there](https://camo.githubusercontent.com/b98bc40342eddd722eb2917d3e4c5bcb9f01a939f49dcbcaeda0f184aa1a008e/68747470733a2f2f632e74656e6f722e636f6d2f34426b5965654f7745556741414141432f776176696e672d776176652e676966)
 
 <!--
 **sarahrose99/sarahrose99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
